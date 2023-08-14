@@ -1,0 +1,202 @@
+@font-face {
+    font-family: 'Manrope';
+    src : url(../font/Manrope-Regular.ttf)
+ }
+
+
+
+*{
+    margin:0;
+    padding: 0;
+}
+body {
+    overflow-x: hidden;
+    background-color: #FFFFFF;
+    position: relative;
+}
+h1 {
+    font-family: 'Manrope';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: -1.5px;
+    color: #101913;
+  
+   
+}
+.text {
+    color:  #3C9379;
+    font-family: 'Manrope';
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: -1.5px;
+}
+a{
+    text-decoration: none;
+}
+.cont_a {
+    font-family: 'Manrope';
+font-size: 16px;
+font-weight: 500;
+line-height: 16px;
+color: #535A56;
+text-align: left;
+
+}
+.text1{
+font-family: 'Manrope';
+font-size: 16px;
+font-weight: 700;
+line-height: 16px;
+color: Black;
+
+}
+.a_1{
+width: 102px;
+height: 40px;
+border: none;
+border-radius: 8px;
+gap: 10px;
+background-color: #3C9379;
+color: #FFFFFF;
+font-family: 'Manrope';
+font-size: 16px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.30000001192092896px;
+text-align: center;
+
+
+}
+.h1 {
+    font-family: 'Manrope';
+font-size: 54px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0.5px;
+text-align: left;
+color:#101913;
+
+}
+.texth1 {
+font-family: 'Manrope';
+font-size: 54px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0.5px;
+text-align: left;
+color:#3C9379;
+
+}
+.texth11 {
+font-family: 'Manrope';
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+color:#535A56;
+
+}
+.button21 {
+width: 156px;
+height: 48px;
+
+border-radius: 8px;
+color:white;
+background: #3C9379;
+font-family: 'Manrope';
+font-size: 16px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.30000001192092896px;
+border: none;
+}
+.centtext {
+font-family: 'Manrope';
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.30000001192092896px;
+text-align: center;
+color: #101913;
+
+}
+.tetxmd4 {
+font-family: 'Manrope';
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+
+}
+h5 {
+font-family: 'Manrope';
+font-size: 20px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0.30000001192092896px;
+
+
+}
+.mintetx1 {
+font-family: 'Manrope';
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.30000001192092896px;
+text-align: center;
+
+}
+.name {
+font-family: 'Manrope';
+font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0.30000001192092896px;
+color:#101913;
+
+}
+.price {
+font-family: 'Manrope';
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0.30000001192092896px;
+color:#101913;
+
+}
+.footer{
+
+font-family: 'Manrope';
+font-size: 14px;
+font-weight: 400;
+
+letter-spacing: 0.30000001192092896px;
+text-align: left;
+
+color:#535A56;
+
+}
+h6 {
+font-family: 'Manrope';
+font-size: 14px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0.30000001192092896px;
+
+color:#101913;
+
+}
+.footertext {
+ 
+font-family: 'Manrope';
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.30000001192092896px;
+text-align: center;
+
+}
