@@ -2,7 +2,7 @@
   const imageContainer = document.getElementById('imageContainer');
 
 
-  const imageUrl = 'http://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg';
+  const imageUrl = 'https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg';
 
   
   axios.get(imageUrl, { responseType: 'blob' })
@@ -21,7 +21,7 @@
     });
  
   const imageContainer1 = document.getElementById('imageContainer1');
-  const imageUrl1 = ' http://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg';
+  const imageUrl1 = ' https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg';
 
   
   axios.get(imageUrl1, { responseType: 'blob' })
@@ -40,7 +40,7 @@
     });
 
     const imageContainer2 = document.getElementById('imageContainer2');
-    const imageUrl2 = 'http://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg';
+    const imageUrl2 = 'https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg';
   
     
     axios.get(imageUrl2, { responseType: 'blob' })
